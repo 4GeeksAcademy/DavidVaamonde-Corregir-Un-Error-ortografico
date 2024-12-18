@@ -10,7 +10,7 @@ canonical: ""
 
 ¡Beneficios solo para ti! Solo para graduados de 4geeks. 
 
-Esta información es exclusiva para nuestros estudiantes y egresados ya que proviene de nuestros esfuerzos de asociación. Por favor, asegúrate de leerlo detenidamente ya que estamos tratando de brindarte tantas oportunidades como sea posible. Si tienes alguna pregunta, no dudes en ponerte en contacto con tu asesor de apoyo profesional.
+Esta información es exclusiva para nuestros estudiantes y licenciados ya que proviene de nuestros esfuerzos de asociación. Por favor, asegúrate de leerlo detenidamente ya que estamos tratando de brindarte tantas oportunidades como sea posible. Si tienes alguna pregunta, no dudes en ponerte en contacto con tu asesor de apoyo profesional.
 
 Consulta nuestra [página de aliados](https://www.notion.so/4geeksacademy/Our-partners-projects-communities-and-hiring-opportunities-9e0a9eaba0264b26abfd59a8bb682244) y regístrate o pregunta por cualquier oportunidad que te parezca interesante
 
